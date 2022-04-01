@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <h1>
+        Create a new box
+      </h1>
+      <form>
+        <label
+          for="width"
+        >
+          Width
+        </label>
+        <input
+          id="width"
+          name="width"
+          placeholder="Box width"
+          type="text"
+          value=""
+        />
+        <label
+          for="height"
+        >
+          Height
+        </label>
+        <input
+          id="height"
+          name="height"
+          placeholder="Box height"
+          type="text"
+          value=""
+        />
+        <label
+          for="backgroundColor"
+        >
+          Background color
+        </label>
+        <input
+          id="backgroundColor"
+          name="backgroundColor"
+          placeholder="Box backgroundColor"
+          type="text"
+          value=""
+        />
+        <button>
+          Add Box
+        </button>
+      </form>
+    </div>
+    <div />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`should match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <h1>
+        Create a new box
+      </h1>
+      <form>
+        <label
+          for="width"
+        >
+          Width
+        </label>
+        <input
+          id="width"
+          name="width"
+          placeholder="Box width"
+          type="text"
+          value=""
+        />
+        <label
+          for="height"
+        >
+          Height
+        </label>
+        <input
+          id="height"
+          name="height"
+          placeholder="Box height"
+          type="text"
+          value=""
+        />
+        <label
+          for="backgroundColor"
+        >
+          Background color
+        </label>
+        <input
+          id="backgroundColor"
+          name="backgroundColor"
+          placeholder="Box backgroundColor"
+          type="text"
+          value=""
+        />
+        <button>
+          Add Box
+        </button>
+      </form>
+    </div>
+    <div />
+  </div>
+</DocumentFragment>
+`;
